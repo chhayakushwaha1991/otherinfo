@@ -1,0 +1,22 @@
+Datadog is a monitoring and analytics tool for information technology (IT) and DevOps teams that can be used to determine performance metrics as well as 
+event monitoring for infrastructure and cloud services. The software can monitor services such as servers, databases and tools.
+Datadog monitoring software is available for deployment on premises or as a software as a service (SaaS). Datadog supports Windows, Linux, and Mac operating systems.
+Support for cloud service providers includes AWS, Microsoft Azure, Red Hat OpenShift and Google Cloud Platform.
+Datadog uses a Go-based agent and its backend is made from Apache Cassandra, PostgreSQL and Kafka. A Rest application program interface (API) is used to 
+allow Datadog to integrate with numerous services, tools, and programming languages. Integrations such as Kubernetes, Chef, Puppet, Ansible, Ubuntu and Bitbucket.
+The user interface includes customizable dashboards that can show graphs composed of multiple data sources in real-time. Datadog can also send users 
+notifications of performance issues on any set metric, such as compute rates. Users are notified through means such as email, Slack or PagerDuty.
+
+Features
+
+Provides an IT/DevOps team with a single view of their infrastructure (including servers, apps, metrics and other services).
+Customizable dashboards.
+Alerts based on critical issues.
+Support for over 250 product integrations.
+Automatically collects and analyzes logs, latency and error rates.
+Allows for access to the API.
+Supports applications written in languages such as Java, Python, PHP, .NET, Go, Node and Ruby.
+Alternatives
+
+Alternative monitoring tools to Datadog include solutions such as Science Logic and Zenoss Service D
+
